@@ -1,18 +1,17 @@
+##  Portfólio
 
+⚡️ Ui Design Moderno + Animações de revelação\
+⚡️ Pagina com layout único  \
+⚡️ Estilizada com Bootstrap v4.3 + SCSS customizavel\
+⚡️ Totalmente Responsivo\
+⚡️ Otimizado com Webpack\
+⚡️ Documentação bem organizada
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Optimized with Webpack\
-⚡️ Well organized documentation
-
-To view a live example, **[click here](https://cobidev.com/)**
+Para ver um exemplo, **[clique aqui](https://cobidev.com/)**
 
 ---
 
-## Technologies used 🛠️
+## Tecnologias usadas 🛠️
 
 - [Webpack](https://webpack.js.org/concepts/) - Static module bundler
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
